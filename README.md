@@ -1,3 +1,3 @@
 #My first repository
 
-I'm a beginnet
+I'm a beginner
