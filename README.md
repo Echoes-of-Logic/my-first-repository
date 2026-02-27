@@ -1,2 +1,3 @@
-# my-first-repository
-my-first-repository
+#我的第一个仓库
+我的第一个仓库
+我是个新手。
