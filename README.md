@@ -1,3 +1,3 @@
-#我的第一个仓库
-我的第一个仓库
-我是个新手。
+#My first repository
+
+I'm a beginnet
